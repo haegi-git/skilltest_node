@@ -16,8 +16,8 @@
   <li>/todo - post 글 쓰기 기능</li>
   <li>/todo - delete 글 삭제 기능</li>
   <li>/todo - put 글 업데이트 기능</li>
-
+<br/>
   <li>/:userId/:search - get 검색 기능 params로 userId값 search input값 받아온 뒤 Todos 데이터에서 뽑아옴</li>
-
+<br/>
   <li>/user - post 유저 생성 기능, (로그인 로직 대신 닉네임과 태그를 받아와 저장 후 중복확인으로 409에러로 접속시켜버림)</li>
 </ul>
