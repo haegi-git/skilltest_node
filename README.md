@@ -1,4 +1,7 @@
 <p>백엔드로 라라벨 사용해보려했으나 시간상의 문제로 불가능할 것을 감지하고 express 시작</p>
+<br/>
+<p>npm install</p>
+<p>nodemon index.js</p>
 
 <h1>02-23 오전 1:30</h1>
 <p> 기초 Express, sqlite3 연동해보며 테스트 진행중</p>
